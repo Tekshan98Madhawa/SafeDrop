@@ -1,0 +1,6 @@
+# SafeDrop Configuration
+# -------------------------------------------------------
+# Rename this file to config.txt and add your API key
+# Get a free VirusTotal key at: https://www.virustotal.com/gui/join-us
+# -------------------------------------------------------
+VT_API_KEY=YOUR_KEY_HERE

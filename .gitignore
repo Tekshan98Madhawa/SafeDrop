@@ -1,0 +1,16 @@
+# SafeDrop - Git Ignore Rules
+# These files are excluded from the repository for security reasons
+
+# API keys and sensitive config
+config.txt
+
+# Local logs - keep these private
+Logs/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.log
